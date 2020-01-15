@@ -1,5 +1,5 @@
 # RidePro
-An open-source Two wheeler garage management platform
+An open-source Two wheeler garage management platform \r
 Made with :heart: in Kolkata
 
 # License
