@@ -1,7 +1,7 @@
 # RidePro
 An open-source Two wheeler garage management platform
 
-License
+# License
 MIT License
 
 Copyright (c) 2019 jrsarath
